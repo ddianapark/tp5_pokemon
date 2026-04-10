@@ -1,0 +1,21 @@
+{
+  "name": "tp5_pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ddianapark/tp5_pokemon#readme",
+  "bugs": {
+    "url": "https://github.com/ddianapark/tp5_pokemon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddianapark/tp5_pokemon.git"
+  },
+  "license": "ISC",
+  "author": "jaz y diana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
